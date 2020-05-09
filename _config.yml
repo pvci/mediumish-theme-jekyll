@@ -1,9 +1,8 @@
 # Site
-name: "Mediumish"
-title: "Mediumish"
-url:                   https://pvci.github.io/
+name: "Prashant Chaudhari"
+title: "Prashant Chaudhari  "
 
-description: "Jekyll template, Medium styled, free for bloggers."
+description: "Site for sharing my current work using machine learning techniques."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /mediumish-theme-jekyll
