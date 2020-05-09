@@ -8,28 +8,16 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+I am currently employed with ***JPMorgan Chase & Co.***, Mumbai, India. I have many years of professional experience on working with wide variety of technology, and using data to solve business problems.
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+I am interested in leveraging ***data*** to solve business problem.
 
-<h4>Questions or bug reports?</h4>
+This site is to share my current interest and work with machine learning/data science for ***Classification, Regression, Time Series Forecasting, Natural Language Processing (NLP), Image Processing, with various tools such as Python Pandas, Scikit-Learn, TensorFlow, Apache Spark, SQL, Cloud Compute, XGBoost, LightGBM, Clustering*** etc
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+I have ***MS in Computer Science*** and MS in eCommerce Management from ***Texas A&M University***.
 
 </div>
 
-<div class="col-md-4">
 
-<div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
-
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
-
-</div>
-</div>
 </div>
