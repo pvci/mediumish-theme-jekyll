@@ -4,7 +4,7 @@ title:  "Lending Club Loan Analysis"
 author: Prashant
 categories: [ python, classification, scikit-learn ]
 tags: [red, yellow]
-image: assets/images/LeandingClub/lc_header.jpg
+image: assets/images/LendingClub/lc_header.jpg
 description: "My analysis of Lending club load and classification if borrower will default using scikit-learn."
 featured: true
 hidden: true
