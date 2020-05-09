@@ -9,7 +9,7 @@ comments: true
 <div class="col-md-8 pr-5">
 
 
-<p>I am currently employed with ***JPMorgan Chase & Co.***, Mumbai, India. I have many years of professional experience on working with wide variety of technology, and using data to solve business problems.</p>
+<p>I am currently employed with <b>JPMorgan Chase & Co.,/b>, Mumbai, India. I have many years of professional experience on working with wide variety of technology, and using data to solve business problems.</p>
 
 <p>I am interested in leveraging ***data*** to solve business problem.</p>
 
