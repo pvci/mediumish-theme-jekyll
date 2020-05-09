@@ -9,7 +9,7 @@ comments: true
 <div class="col-md-8 pr-5">
 
 
-<p>I am currently employed with <b>JPMorgan Chase & Co.,</b>, Mumbai, India. I have many years of professional experience on working with wide variety of technology, and using data to solve business problems.</p>
+<p>I am currently employed with <b>JPMorgan Chase & Co.</b>, at Mumbai, India. I have many years of professional experience on working with wide variety of technology, and using data to solve business problems.</p>
 
 <p>I am interested in leveraging <b>data</b> to solve business problem.</p>
 
@@ -18,6 +18,4 @@ comments: true
 <p>I have <b>MS in Computer Science</b> and MS in eCommerce Management from <b>Texas A&M University</b>.</p>
 
 </div>
-
-
 </div>
