@@ -3,7 +3,7 @@ name: "Prashant Chaudhari"
 title: "Prashant Chaudhari  "
 
 description: "Site for sharing my current work using machine learning techniques."
-logo: /assets/images/icon.png
+logo: /assets/images/logo.png
 favicon: /assets/images/favicon.ico
 #baseurl: /mediumish-theme-jekyll
 baseurl: ''
