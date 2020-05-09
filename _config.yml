@@ -15,6 +15,15 @@ permalink: /:title/
 
 # Authors
 authors:
+  john:
+    name: Prashant
+    display_name: Prashant    
+    avatar: 'assets/images/icon.png'
+    email: prashant202@hotmail.com
+    web: https://pvci.github.io/
+    twitter: https://twitter.com/prashant_202
+    description: ""
+
   sal:
     name: Sal
     display_name: Sal
