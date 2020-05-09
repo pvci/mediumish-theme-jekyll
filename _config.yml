@@ -3,14 +3,14 @@ name: "Prashant Chaudhari"
 title: "Prashant Chaudhari  "
 
 description: "Site for sharing my current work using machine learning techniques."
-logo: '/assets/images/icon.png'
-favicon: '/assets/images/favicon.ico'
+logo: /assets/images/icon.png
+favicon: /assets/images/favicon.ico
 #baseurl: /mediumish-theme-jekyll
 baseurl: ''
-google_analytics: 'UA-46278016-1'
+google_analytics: 'UA-165274125-1'
 disqus: 'demowebsite'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
-include: ["_pages"]
+include: ["_pages"] 
 permalink: /:title/
 
 # Authors
