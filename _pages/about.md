@@ -15,7 +15,7 @@ comments: true
 
 <p>This site is to share my current interest and work with machine learning/data science for <b>Classification, Regression, Time Series Forecasting, Natural Language Processing (NLP), Image Processing, with various tools such as Python Pandas, Scikit-Learn, TensorFlow, Apache Spark, SQL, Cloud Compute, XGBoost, LightGBM, Clustering</b> etc</p>
 
-<p>I have <b>MS in Computer Science</b> and MS in eCommerce Management from <b>Texas A&M University</b>.</p>
+<p>I have graduated with <b>MS in Computer Science</b> and MS in eCommerce Management from <b>Texas A&M University</b>.</p>
 
 </div>
 </div>
