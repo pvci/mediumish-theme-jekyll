@@ -21,7 +21,7 @@ comments: true
 <p>
 <a href="assets/Prashant_Chaudhari_DS-ML.pdf">My Resume in pdf</a>
 <br><br>
-<iframe src="assets/Prashant_Chaudhari_DS-ML.pdf" width="100%" height="100%"></iframe>
+<iframe src="assets/Prashant_Chaudhari_DS-ML.pdf" width="700px" height="500px"></iframe>
 </p>
 
 </div>
