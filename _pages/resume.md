@@ -19,7 +19,7 @@ comments: true
 
 
 <p>
-[resume]({{ site.baseurl }}/assets/Prashant_Chaudhari_DS-ML.pdf)
+Current Resume [here]({{ site.baseurl }}/assets/Prashant_Chaudhari_DS-ML.pdf)
 </p>
 
 </div>
