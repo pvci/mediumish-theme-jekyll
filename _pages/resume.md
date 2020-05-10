@@ -17,5 +17,10 @@ comments: true
 
 <p>I have graduated with <b>MS in Computer Science</b> and MS in eCommerce Management from <b>Texas A&M University</b>.</p>
 
+
+<p>
+[resume]({{ site.baseurl }}/assets/Prashant_Chaudhari_DS-ML.pdf)
+</p>
+
 </div>
 </div>
