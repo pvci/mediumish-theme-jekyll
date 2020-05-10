@@ -19,6 +19,8 @@ comments: true
 
 
 <p>
+<a href="assets/Prashant_Chaudhari_DS-ML.pdf">My Resume in pdf</a>
+
 [here]({{ site.baseurl }}/assets/Prashant_Chaudhari_DS-ML.pdf)
 
 [here](assets/Prashant_Chaudhari_DS-ML.pdf)
@@ -30,6 +32,8 @@ comments: true
 <iframe src="assets/Prashant_Chaudhari_DS-ML.pdf" width="100%" height="100%"></iframe>
 <embed src="assets/Prashant_Chaudhari_DS-ML.pdf" width="100%" height="100%"></embed>
 <object src="assets/Prashant_Chaudhari_DS-ML.pdf" width="100%" height="100%"></object>
+
+
 </p>
 
 </div>
