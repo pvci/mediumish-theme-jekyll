@@ -19,7 +19,9 @@ comments: true
 
 
 <p>
-Current Resume [here]({{ site.baseurl }}/assets/Prashant_Chaudhari_DS-ML.pdf)
+[here]({{ site.baseurl }}/assets/Prashant_Chaudhari_DS-ML.pdf)
+[here](assets/Prashant_Chaudhari_DS-ML.pdf)
+[here](assets/Prashant_Chaudhari_DS-ML.pdf, "My Resume")
 
 <iframe src="assets/Prashant_Chaudhari_DS-ML.pdf" width="100%" height="100%"></iframe>
 <embed src="assets/Prashant_Chaudhari_DS-ML.pdf" width="100%" height="100%"></embed>
