@@ -10,6 +10,7 @@ featured: true
 hidden: true
 ---
 ### Data from Lending Club would be having sampling bias, as this dataset is of people already granted loan, so they have been already gone through one level of risk screening
+
 ### Identify loans that may default and its reason
 
 
